@@ -23,7 +23,7 @@
     "ipfs-http-client": "^58.0.0",
     "magic-sdk": "^9.0.0",
     "moralis": "^2.0.3",
-    "next": "12.2.3",
+    "next": "12.2.4",
     "react": "18.2.0",
     "react-blockies": "^1.4.1",
     "react-dom": "18.2.0",
